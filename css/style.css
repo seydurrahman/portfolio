@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+    .w-1\/2 {
+        width: 100%;
+    }
+}
+
+#mobile-menu {
+    transition: all 0.3s ease-in-out;
+}
+
+.hidden {
+    display: "";
+}
